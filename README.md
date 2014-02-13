@@ -5,7 +5,7 @@ this repository contains mixup things
 +	datastructure directory contains some practices learning datastructure
 
 The repository use [cmake](http://www.cmake.org "cmake") to build, usage like:
-> mkdir build
-> cd build
-> cmake ..
-> make
+> mkdir build  
+> cd build  
+> cmake ..  
+> make  
